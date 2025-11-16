@@ -1,3 +1,8 @@
-/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/PersonApiApplication.java
-/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/model/Person.java
-/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/controller/PersonController.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/model/Profile.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/model/SimulationResult.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/controller/FocusGroupController.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/model/ProfileReaction.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/model/GenerateProfilesRequest.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/model/RunSimulationRequest.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/FocusGroupApiApplication.java
+/Users/ayushishrivastav/person-app/backend/src/main/java/com/example/personapi/service/GeminiService.java
