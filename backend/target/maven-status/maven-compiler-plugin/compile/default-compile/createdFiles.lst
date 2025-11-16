@@ -1,8 +1,0 @@
-com/example/personapi/controller/FocusGroupController.class
-com/example/personapi/model/focusgroup/Profile.class
-com/example/personapi/service/GeminiService.class
-com/example/personapi/model/focusgroup/GenerateProfilesRequest.class
-com/example/personapi/FocusGroupApiApplication.class
-com/example/personapi/model/focusgroup/ProfileReaction.class
-com/example/personapi/model/focusgroup/RunSimulationRequest.class
-com/example/personapi/model/focusgroup/SimulationResult.class
